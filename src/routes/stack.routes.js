@@ -1,7 +1,7 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 
-
+import DetailsCli from "../pages/DetailsCli"
 import Welcome from "../pages/Welcome";
 import SignIn from "../pages/Signin";
 import SignInRest from "../pages/SignInRest";
